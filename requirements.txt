@@ -1,0 +1,3 @@
+python-telegram-bot==22.7
+twilio==9.10.9
+aiosqlite==0.21.0
